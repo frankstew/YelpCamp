@@ -28,7 +28,7 @@ module.exports = {
     port: 3000,
     hot: true
   },
-  watch: true,
+  watch: false,
   resolve: {
       extensions: [".js",  ".jsx"]
   }
